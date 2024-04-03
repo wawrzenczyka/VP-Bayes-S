@@ -1,0 +1,10 @@
+{
+    "training_mode": "VAE-PU",
+    "use_original_paper_code": false,
+    "train_occ": true,
+    "occ_methods": ["OC-SVM", "IsolationForest", "ECODv2", "A^3"],
+    "occ_num_epoch": 100,
+    "early_stopping": true,
+    "early_stopping_epochs": 10,
+    "use_old_models": true
+}

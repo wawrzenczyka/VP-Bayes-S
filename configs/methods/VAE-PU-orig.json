@@ -1,0 +1,5 @@
+{
+    "training_mode": "VAE-PU",
+    "use_original_paper_code": true,
+    "train_occ": false
+}

@@ -1,0 +1,8 @@
+{
+    "data": "MNIST OvE",
+    "alpha_gen": 0.1,
+    "alpha_disc": 0.1,
+    "alpha_gen2": 3,
+    "alpha_disc2": 3,
+    "alpha_test": 1
+}

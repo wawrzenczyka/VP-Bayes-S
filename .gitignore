@@ -1,0 +1,16 @@
+__pycache__/
+env/
+pu_data/
+result*/
+data/
+wyniki.zip
+processed_results*/
+datasets_preprocessing/
+plots/
+*.png
+*.ipynb
+*.csv
+*.txt
+*.rar
+*.zip
+*.pdf

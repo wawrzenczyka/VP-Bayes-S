@@ -1,0 +1,8 @@
+{
+    "data": "Gas Concentrations",
+    "alpha_gen": 1,
+    "alpha_disc": 1,
+    "alpha_gen2": 10,
+    "alpha_disc2": 10,
+    "alpha_test": 1
+}

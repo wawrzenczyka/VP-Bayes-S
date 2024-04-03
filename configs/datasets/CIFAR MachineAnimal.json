@@ -1,0 +1,8 @@
+{
+    "data": "CIFAR MachineAnimal",
+    "alpha_gen": 0.3,
+    "alpha_disc": 0.3,
+    "alpha_gen2": 1,
+    "alpha_disc2": 1,
+    "alpha_test": 1
+}
