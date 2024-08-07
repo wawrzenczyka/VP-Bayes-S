@@ -2,7 +2,10 @@ __pycache__/
 env/
 pu_data/
 result*/
-data/
+!data/
+data/*
+!data/cifar10.pt
+!data/stl10.pt
 wyniki.zip
 processed_results*/
 datasets_preprocessing/
@@ -14,3 +17,4 @@ plots/
 *.rar
 *.zip
 *.pdf
+!Augmented prediction of a true class for Positive Unlabeled data under selection bias*.pdf
